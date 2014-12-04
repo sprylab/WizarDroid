@@ -12,6 +12,7 @@
 bin/
 gen/
 target/
+gen-external-apklibs/
 
 # Local configuration file (sdk path, etc)
 local.properties
